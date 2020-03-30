@@ -1,6 +1,6 @@
 #include "pch.h"
 
-namespace WildSurgeRandomizer
+namespace WildSR
 {
 
 }
